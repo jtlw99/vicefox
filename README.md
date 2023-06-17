@@ -22,7 +22,7 @@ ArcFox is a pack of firefox improvements that brings the appearance and some of 
 
 I really recomend you to give a try on arc browser if you can. But we gonna do our best to make firefox nice as arc.
 
-### ViceFox -Theme Installation
+# Installation
 To install arcfox-theme you need to open your Firefox configurations and turn style modification on. To do that please follow this steps:
 
 - Digit <a href="about:config">"about:config"</a> on firefox address bar and click enter.

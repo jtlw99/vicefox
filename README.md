@@ -8,7 +8,7 @@
   <p align="center">
   Don't ask why it's named ViceFox
     <br />
-    <a href="https://github.com/use-arcfox/arcfox/releases"><strong>Install »</strong></a>
+    <a href="https://github.com/jtlw99/vicefox/releases"><strong>Install »</strong></a>
     <br />
   </p>
 </p>

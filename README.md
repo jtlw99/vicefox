@@ -1,9 +1,10 @@
 <h1 align="center">
-  <a href="https://github.com/jtlw99/vicefox/"><img src="vicefox-logo" alt="Logo"></a>
+  <a href="https://github.com/jtlw99/vicefox/"><img src="images/vicefox-logo.png" alt="Logo"></a>
 </h1>
 
-<h1 align="center">ViceFox</h1>
+<h1 align="center">ViceFox - Coming Soon!</h1>
 
 <h1 align="center">
-  <a href="https://github.com/deskto/"><img src="" alt="Logo"></a>
+  <a href="https://github.com/jtlw99/vicefox"><img src="images/scrsht.png" alt="Preview"></a>
 </h1>
+

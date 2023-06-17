@@ -6,7 +6,7 @@
   </p>
   <h1 align="center"><b>ViceFox</b></h1>
   <p align="center">
-  Don't ask why it's named ViceFox
+  Don't ask why it's called ViceFox
     <br />
     <a href="https://github.com/jtlw99/vicefox/releases"><strong>Install (Coming soon!) »</strong></a>
     <br />

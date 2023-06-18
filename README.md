@@ -27,11 +27,11 @@
     To install ViceFox Theme you need to open your Firefox configurations and turn style modification on. To do that please follow these steps:
   </p>
 
-- Digit `about:config` on firefox address bar and click enter.
+- Type `about:config` on Firefox address bar and press enter.
 - On the search bar, search for `toolkit.legacyUserProfileCustomizations.stylesheets` and set the value to `true`.
 - Open `about:support` and click on the “Open Folder” button on the right of "Profile Folder" to open it.
 - When the folder opens, drop the `chrome` folder that you find on the <a href="https://github.com/jtlw99/vicefox/releases">releases.</a>
-- Restart firefox.
+- Restart Firefox.
 
  <h1 align="center"><b>Support</b></h1>
 

@@ -4,7 +4,7 @@
   <p align="center">
    <img width="265" height="170" src="images/logo.png" alt="Logo">
   </p>
-  <h1 align="center"><b>ViceFox</b></h1>
+  <h1 align="center"><b>ViceFox | Coming soon!</b></h1>
   <p align="center">
   Don't ask why it's called ViceFox
     <br />

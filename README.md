@@ -15,7 +15,7 @@
 
 # What is ViceFox?
   <p align="center">
-   <img width="315" height="230" src="images/scrsht.png" alt="Logo">
+   <img width="315" height="220" src="images/scrsht.png" alt="Logo">
   </p>
 
 ArcFox is a pack of firefox improvements that brings the appearance and some of the features of arc browser to firefox. Recently, The Browser Company © (the developers of arc browser) announced a windows version, so this project almost lost the reason to exist. But there still a linux version to be made and some people just like firefox and don't want to change.

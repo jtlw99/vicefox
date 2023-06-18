@@ -13,7 +13,7 @@
   </p>
 </p>
 
-# What is ArcFox?
+# What is ViceFox?
   <p align="center">
    <img width="315" height="230" src="images/scrsht.png" alt="Logo">
   </p>
@@ -23,15 +23,18 @@ ArcFox is a pack of firefox improvements that brings the appearance and some of 
 I really recomend you to give a try on arc browser if you can. But we gonna do our best to make firefox nice as arc.
 
 # Installation
-To install arcfox-theme you need to open your Firefox configurations and turn style modification on. To do that please follow this steps:
+To install ViceFox Theme you need to open your Firefox configurations and turn style modification on. To do that please follow this steps:
 
 - Digit <a href="about:config">"about:config"</a> on firefox address bar and click enter.
 - On the search bar, search for "toolkit.legacyUserProfileCustomizations.stylesheets" and set the value to "true".
 - Open <a href="about:support">"about:support"</a> and click on the “Open Folder” button on the right of "Profile Folder" to open it.
 - When the folder opens, search for a folder called "chrome", if you don't find it create one.
-- Inside the "chrome" folder, drop the "userChrome.css" that you find on the <a href="https://github.com/use-arcrcfox/releases">releases.</a>
+- Inside the "chrome" folder, drop the "userChrome.css" that you find on the <a href="https://github.com/ueases">releases.</a>
 - Restart firefox.
 
 # Support
 If you have any problems you can open a issue on this repository!
+
+# Special thanks
+The ArcFox Team
 

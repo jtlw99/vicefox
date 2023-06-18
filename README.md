@@ -31,7 +31,7 @@
 - On the search bar, search for `toolkit.legacyUserProfileCustomizations.stylesheets` and set the value to `true`.
 - Open `about:support` and click on the “Open Folder” button on the right of "Profile Folder" to open it.
 - When the folder opens, search for a folder called `chrome`, if you don't find it create one.
-- Inside the `chrome` folder, drop the `userChrome.css` that you find on the <a href="https://github.com/ueases">releases.</a>
+- Inside the `chrome` folder, drop the `userChrome.css` that you find on the <a href="https://github.com/jtlw99/vicefox/releases">releases.</a>
 - Restart firefox.
 
  <h1 align="center"><b>Support</b></h1>

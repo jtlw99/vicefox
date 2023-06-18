@@ -2,7 +2,7 @@
   <a href="#">
   </a>
   <p align="center">
-   <img width="315" height="200" src="images/logo.png" alt="Logo">
+   <img width="265" height="170" src="images/logo.png" alt="Logo">
   </p>
   <h1 align="center"><b>ViceFox</b></h1>
   <p align="center">

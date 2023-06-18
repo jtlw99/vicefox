@@ -30,8 +30,7 @@
 - Digit `about:config` on firefox address bar and click enter.
 - On the search bar, search for `toolkit.legacyUserProfileCustomizations.stylesheets` and set the value to `true`.
 - Open `about:support` and click on the “Open Folder” button on the right of "Profile Folder" to open it.
-- When the folder opens, search for a folder called `chrome`, if you don't find it create one.
-- Inside the `chrome` folder, drop the `userChrome.css` that you find on the <a href="https://github.com/jtlw99/vicefox/releases">releases.</a>
+- When the folder opens, drop the `chrome` folder that you find on the <a href="https://github.com/jtlw99/vicefox/releases">releases.</a>
 - Restart firefox.
 
  <h1 align="center"><b>Support</b></h1>
@@ -43,4 +42,6 @@
  <h1 align="center"><b>Special thanks</b></h1>
 
 - The ArcFox Team
+- denizjcan
+- JT Studio
 

@@ -4,23 +4,19 @@
   <p align="center">
    <img width="600" height="350" src="images/vicefox-img.png" alt="Logo">
   </p>
-  <h1 align="center"><b></b></h1>
   <p align="center">
-  Don't ask why it's called "ViceFox"
-    <br />
-    <a href="https://github.com/jtlw99/vicefox/releases"><strong>Install »</strong></a>
-    <br />
-  </p>
-</p>
 
  <h1 align="center"><b>What is ViceFox?</b></h1>
   <p align="center">
    <img width="315" height="220" src="images/scrsht.png" alt="Logo">
   </p>
-
-  <p align="center">
+    <p align="center">
   ViceFox is a theme that make your boring FireFox not boring anymore!
+    <br />
+    <a href="https://github.com/jtlw99/vicefox/releases"><strong>Install »</strong></a>
+    <br />
   </p>
+</p>
 
 <h1 align="center"><b>Installation</b></h1>
   <p align="center">

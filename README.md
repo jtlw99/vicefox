@@ -2,9 +2,9 @@
   <a href="#">
   </a>
   <p align="center">
-   <img width="265" height="170" src="images/logo.png" alt="Logo">
+   <img width="600" height="350" src="images/vicefox-img.png" alt="Logo">
   </p>
-  <h1 align="center"><b>ViceFox</b></h1>
+  <h1 align="center"><b></b></h1>
   <p align="center">
   Don't ask why it's called "ViceFox"
     <br />

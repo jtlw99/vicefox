@@ -2,7 +2,7 @@
   <a href="#">
   </a>
   <p align="center">
-   <img width="600" height="350" src="images/vicefox-img.png" alt="Logo">
+   <img width="200" height="200" src="images/favicon.png" alt="Logo">
   </p>
   <p align="center">
 

@@ -2,7 +2,7 @@
   <a href="#">
   </a>
   <p align="center">
-   <img width="150" height="150" src="images/favicon.png" alt="Logo">
+   <img width="100" height="100" src="images/favicon.png" alt="Logo">
      <h1 align="center"><b>ViceFox</b></h1>
         <p align="center">
       Don't ask why it's called "ViceFox"
@@ -14,12 +14,12 @@
   <p align="center">
 
  <h1 align="center"><b>What is ViceFox?</b></h1>
-  <p align="center">
-   <img width="315" height="220" src="images/scrsht.png" alt="Logo">
-  </p>
     <p align="center">
   ViceFox is a theme that make your boring FireFox not boring anymore!
     </p>
+      <p align="center">
+   <img src="images/scrsht.png" alt="vicefox-preview">
+  </p>
 
 <h1 align="center"><b>Installation</b></h1>
   <p align="center">

@@ -43,6 +43,7 @@
 - The ArcFox Team
 - denizjcan
 - JT Studio
+- r/FirefoxCSS on Reddit
 
 
  <p align="center">

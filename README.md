@@ -35,7 +35,7 @@
  <h1 align="center"><b>Support</b></h1>
 
   <p align="center">
-    If you have any problems you can open a issue on this repository!
+    If you have any problems you can open an issue on this repository!
   </p>
 
  <h1 align="center"><b>Special thanks</b></h1>

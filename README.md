@@ -44,6 +44,9 @@
 - denizjcan
 - JT Studio
 - r/FirefoxCSS on Reddit
+- [FirefoxCSS Store](https://firefoxcss-store.github.io/)
+
+#### ViceFox now on [FirefoxCSS Store](https://firefoxcss-store.github.io/)! Check this too <3
 
 
  <p align="center">

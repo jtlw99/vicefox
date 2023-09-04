@@ -21,7 +21,7 @@
    <img src="images/scrsht.png" alt="vicefox-preview">
   </p>
 
-<h1 align="center"><b>Installation</b></h1>
+<h1 align="center"><b>Installation (Firefox 114 only)</b></h1>
   <p align="center">
     To install ViceFox Theme you need to open your Firefox configurations and turn style modification on. To do that please follow these steps:
   </p>

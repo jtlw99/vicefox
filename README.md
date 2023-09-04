@@ -3,7 +3,7 @@
   </a>
   <p align="center">
    <img width="100" height="100" src="images/favicon.png" alt="Logo">
-     <h1 align="center"><b>ViceFox</b></h1>
+     <h1 align="center"><b>ViceFox for Firefox 114</b></h1>
         <p align="center">
       Don't ask why it's called "ViceFox"
     <br />

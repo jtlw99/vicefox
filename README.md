@@ -3,7 +3,7 @@
   </a>
   <p align="center">
    <img width="100" height="100" src="images/favicon.png" alt="Logo">
-     <h1 align="center"><b>ViceFox for Firefox 114</b></h1>
+     <h1 align="center"><b>ViceFox for Firefox</b></h1>
         <p align="center">
       Don't ask why it's called "ViceFox"
     <br />
@@ -21,7 +21,7 @@
    <img src="images/scrsht.png" alt="vicefox-preview">
   </p>
 
-<h1 align="center"><b>Installation (Firefox 114 only)</b></h1>
+<h1 align="center"><b>Installation</b></h1>
   <p align="center">
     To install ViceFox Theme you need to open your Firefox configurations and turn style modification on. To do that please follow these steps:
   </p>
@@ -31,6 +31,8 @@
 - Open `about:support` and click on the “Open Folder” button on the right of "Profile Folder" to open it.
 - When the folder opens, drop the `chrome` folder that you find on the <a href="https://github.com/jtlw99/vicefox/releases">releases.</a>
 - Restart Firefox.
+
+  ❗Note: You can't show the home icon on the top bar!
 
  <h1 align="center"><b>Support</b></h1>
 

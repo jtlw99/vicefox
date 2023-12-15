@@ -50,10 +50,14 @@
 
 #### ViceFox now on [FirefoxCSS Store](https://firefoxcss-store.github.io/)! Check this too <3
 
+### Note: This theme is a little broken since FireFox 118
+
 
  <p align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/JT_Studio-Verified-green">
   </p>
+
+  
 
 
 

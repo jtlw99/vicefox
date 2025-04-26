@@ -50,7 +50,7 @@
 
 #### ViceFox now on [FirefoxCSS Store](https://firefoxcss-store.github.io/)! Check this too <3
 
-### Note: This theme is a little broken since FireFox 118
+## Note: Vicefox has been discontinued!
 
 
  <p align="center">

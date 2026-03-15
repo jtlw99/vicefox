@@ -44,18 +44,11 @@
 
 - The ArcFox Team
 - denizjcan
-- JT Studio
 - r/FirefoxCSS on Reddit
 - [FirefoxCSS Store](https://firefoxcss-store.github.io/)
 
 #### ViceFox now on [FirefoxCSS Store](https://firefoxcss-store.github.io/)! Check this too <3
 
-## Note: Vicefox has been discontinued!
-
-
- <p align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/JT_Studio-Verified-green">
-  </p>
 
   
 
